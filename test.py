@@ -1,1 +1,3 @@
-print("Hello World")
+helloWorldString = "Hello World"
+
+print(helloWorldString)
